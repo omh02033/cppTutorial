@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+C:\Users\82103\source\repos\Tutorial\Tutorial\Calculator.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  Tutorial.cpp
+C:\Users\82103\source\repos\Tutorial\Tutorial\Tutorial.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\82103\source\repos\Tutorial\Tutorial\Tutorial.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  코드를 생성하고 있습니다...
+  Tutorial.vcxproj -> C:\Users\82103\source\repos\Tutorial\x64\Debug\Tutorial.exe
